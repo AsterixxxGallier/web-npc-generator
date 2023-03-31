@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="web-npc-generator-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="web-npc-generator-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="web-npc-generator.main" />
+    </root>
+  </artifact>
+</component>
